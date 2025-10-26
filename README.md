@@ -1,16 +1,46 @@
-# React + Vite
+# 🎬 Movie Search & Favorites App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern **React + Vite** web application that allows users to **search movies**, **view details**, and **add favorites** — all powered by the **OMDb API**.
 
-Currently, two official plugins are available:
+Users can easily explore movie information, mark favorites that are stored locally, and enjoy a clean responsive UI.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- 🔍 Search any movie using the OMDb API  
+- 🧾 View full movie details (plot, genre, director, rating, etc.)  
+- ⭐ Add / remove favorites (stored in localStorage)  
+- ⚡ Built with **React + Vite** for ultra-fast development  
+- 📱 Fully responsive grid layout  
+- 💾 Favorites persist even after page reload  
+- 🧑‍💻 Simple & clean component structure  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🧠 Tech Stack
+
+| Category | Technology |
+|-----------|-------------|
+| Frontend Framework | React (Vite) |
+| Styling | CSS3 (custom) |
+| API | [OMDb API](https://www.omdbapi.com/) |
+| State Management | React useState / useEffect hooks |
+| Storage | LocalStorage |
+| Language | JavaScript (ES6+) |
+
+---
+
+## 📦 Installation & Setup
+
+Clone the repository and install dependencies.
+
+```bash
+# Clone the repo
+git clone https://github.com/your-username/vite-movie-app.git
+
+# Go into the folder
+cd vite-movie-app
+
+# Install dependencies
+npm install
