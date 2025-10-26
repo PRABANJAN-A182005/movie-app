@@ -31,6 +31,11 @@ Users can easily explore movie information, mark favorites that are stored local
 
 ---
 
+## 📸 Screenshots
+
+<img width="1917" height="1026" alt="project" src="https://github.com/user-attachments/assets/9bda3aff-1c62-48fc-b2e4-ab7b9018969f" />
+
+
 ## 📦 Installation & Setup
 
 Clone the repository and install dependencies.
@@ -47,7 +52,4 @@ npm install
 
 ---
 
-## 📸 Screenshots
-
----<img width="1917" height="1026" alt="project" src="https://github.com/user-attachments/assets/8b4d978b-e418-4655-9749-b04ee43e143d" />
 
