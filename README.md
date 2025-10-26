@@ -44,3 +44,10 @@ cd vite-movie-app
 
 # Install dependencies
 npm install
+
+---
+
+## 📸 Screenshots
+
+---<img width="1917" height="1026" alt="project" src="https://github.com/user-attachments/assets/8b4d978b-e418-4655-9749-b04ee43e143d" />
+
